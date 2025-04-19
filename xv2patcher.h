@@ -16,7 +16,7 @@
 
 #define CONTENT_ROOT	"../"
 
-#define MINIMUM_GAME_VERSION	1.23f
+#define MINIMUM_GAME_VERSION	1.22f
 
 #define SLOTS_FILE         		"data/XV2P_SLOTS.x2s"
 #define SLOTS_FILE_STAGE		"data/XV2P_SLOTS_STAGE.x2s"
